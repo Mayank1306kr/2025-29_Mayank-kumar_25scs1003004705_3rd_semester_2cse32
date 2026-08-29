@@ -79,7 +79,3 @@ This project was built as part of a 1-month, AICTE & ICAC approved Machine Learn
 
 **Mayank Kumar**
 Machine Learning Intern @ Codec Technologies Pvt. Ltd.
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
