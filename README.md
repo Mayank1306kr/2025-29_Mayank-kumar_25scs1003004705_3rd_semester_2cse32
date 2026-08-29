@@ -53,17 +53,6 @@ You: Bye
 Bot: Goodbye! Have a great day.
 ```
 
-## 🚀 Getting Started
-
-```bash
-# Clone the repository
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
-
-# Run the chatbot
-python chatbot.py
-```
-
 No external libraries are required — just Python 3.
 
 ## ✨ Features
